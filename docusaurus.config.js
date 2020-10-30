@@ -12,8 +12,9 @@ module.exports = {
     algolia: {
       // apiKey: '47ecd3b21be71c5822571b9f59e52544',
       // indexName: 'docusaurus-2',
-      apiKey: '7321017d232a53ce222b73abd8c882c1',///use  another key
-      indexName: 'demo_ecommerce',
+      appId:"OV9QQEORUC",
+      apiKey: '5033789fab808d412b7f2bb18c849a01',///use  another key
+      indexName: 'Test',
 
       // Optional: see doc section bellow
       contextualSearch: true,
