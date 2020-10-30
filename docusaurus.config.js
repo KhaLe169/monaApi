@@ -10,8 +10,10 @@ module.exports = {
    
   themeConfig: {
     algolia: {
-      apiKey: '7321017d232a53ce222b73abd8c882c1',
-      indexName: 'Test',
+      // apiKey: '47ecd3b21be71c5822571b9f59e52544',
+      // indexName: 'docusaurus-2',
+      apiKey: '7321017d232a53ce222b73abd8c882c1',///use  another key
+      indexName: 'demo_ecommerce',
 
       // Optional: see doc section bellow
       contextualSearch: true,
