@@ -2,15 +2,16 @@ const path = require('path');
 module.exports = {
   title: 'Mona',
   tagline: 'The tagline of my site',
-  url: 'https://KhaLe169.github.io', // Your website URL
+  url: 'https://khale169.github.io/monaApi/', // Your website URL
   baseUrl: '/',
-  projectName: 'KhaLe169.github.io',
+  favicon:"aa",
+  projectName: 'monaApi',
   organizationName: 'KhaLe169', 
    
   themeConfig: {
     algolia: {
       apiKey: '7321017d232a53ce222b73abd8c882c1',
-      indexName: 'demo_ecommerce',
+      indexName: 'Test',
 
       // Optional: see doc section bellow
       contextualSearch: true,

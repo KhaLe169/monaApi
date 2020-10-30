@@ -22,11 +22,15 @@
     {
       "collapsed": true,
       "type": "category",
-      "label": "Features",
+      "label": "API",
       "items": [
         {
           "type": "doc",
-          "id": "version-1.1.0/mdx"
+          "id": "version-1.1.0/apilichhoc"
+        },
+        {
+          "type": "doc",
+          "id": "version-1.1.0/api"
         }
       ]
     }
