@@ -5,8 +5,8 @@ module.exports = {
   url: 'https://khale169.github.io/monaApi/', // Your website URL
   baseUrl: '/',
   favicon:"aa",
-  projectName: 'monaApi',
-  organizationName: 'KhaLe169', 
+  projectName: 'khale169.github.io/monaApi',
+  organizationName: 'khale169', 
    
   themeConfig: {
     algolia: {
