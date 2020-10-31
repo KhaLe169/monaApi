@@ -2,11 +2,11 @@ const path = require('path');
 module.exports = {
   title: 'Mona',
   tagline: 'The tagline of my site',
-  url: 'https://khale169.github.io/monaApi/', // Your website URL
-  baseUrl: '/',
+  url: 'https://github.com', // Your website URL
+  baseUrl: '/monaApi/',
   favicon:"aa",
-  projectName: 'khale169.github.io/monaApi',
-  organizationName: 'khale169', 
+  projectName: 'monaApi',
+  organizationName: 'KhaLe169', 
    
   themeConfig: {
     algolia: {
