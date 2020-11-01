@@ -1,0 +1,21 @@
+{
+  "unversionedId": "apilichhoc",
+  "id": "version-1.1.0/apilichhoc",
+  "isDocsHomePage": false,
+  "title": "API Lịch Học",
+  "description": "Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse",
+  "source": "@site/versioned_docs\\version-1.1.0\\apiLichHoc.md",
+  "slug": "/apilichhoc",
+  "permalink": "/monaApi/docs/1.1.0/apilichhoc",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.1.0/apiLichHoc.md",
+  "version": "1.1.0",
+  "sidebar": "version-1.1.0/someSidebar",
+  "previous": {
+    "title": "This is Document Number 3",
+    "permalink": "/monaApi/docs/1.1.0/doc3"
+  },
+  "next": {
+    "title": "API Dashboard",
+    "permalink": "/monaApi/docs/1.1.0/api"
+  }
+}

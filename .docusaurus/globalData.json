@@ -1,0 +1,195 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/monaApi/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": false,
+          "path": "/monaApi/docs/next",
+          "mainDocId": "doc1",
+          "docs": [
+            {
+              "id": "api",
+              "path": "/monaApi/docs/next/api",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "apilichhoc",
+              "path": "/monaApi/docs/next/apilichhoc",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "dataexp",
+              "path": "/monaApi/docs/next/dataexp"
+            },
+            {
+              "id": "description",
+              "path": "/monaApi/docs/next/description"
+            },
+            {
+              "id": "design",
+              "path": "/monaApi/docs/next/design"
+            },
+            {
+              "id": "doc1",
+              "path": "/monaApi/docs/next/",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "doc2",
+              "path": "/monaApi/docs/next/doc2",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "doc3",
+              "path": "/monaApi/docs/next/doc3",
+              "sidebar": "someSidebar"
+            },
+            {
+              "id": "key",
+              "path": "/monaApi/docs/next/key"
+            },
+            {
+              "id": "mdx",
+              "path": "/monaApi/docs/next/mdx"
+            },
+            {
+              "id": "overview",
+              "path": "/monaApi/docs/next/overview"
+            },
+            {
+              "id": "structure",
+              "path": "/monaApi/docs/next/structure"
+            }
+          ]
+        },
+        {
+          "name": "1.1.3",
+          "label": "1.1.3",
+          "isLast": true,
+          "path": "/monaApi/docs",
+          "mainDocId": "doc1",
+          "docs": [
+            {
+              "id": "api",
+              "path": "/monaApi/docs/api",
+              "sidebar": "version-1.1.3/someSidebar"
+            },
+            {
+              "id": "apilichhoc",
+              "path": "/monaApi/docs/apilichhoc",
+              "sidebar": "version-1.1.3/someSidebar"
+            },
+            {
+              "id": "dataexp",
+              "path": "/monaApi/docs/dataexp"
+            },
+            {
+              "id": "description",
+              "path": "/monaApi/docs/description"
+            },
+            {
+              "id": "design",
+              "path": "/monaApi/docs/design"
+            },
+            {
+              "id": "doc1",
+              "path": "/monaApi/docs/",
+              "sidebar": "version-1.1.3/someSidebar"
+            },
+            {
+              "id": "doc2",
+              "path": "/monaApi/docs/doc2",
+              "sidebar": "version-1.1.3/someSidebar"
+            },
+            {
+              "id": "doc3",
+              "path": "/monaApi/docs/doc3",
+              "sidebar": "version-1.1.3/someSidebar"
+            },
+            {
+              "id": "key",
+              "path": "/monaApi/docs/key"
+            },
+            {
+              "id": "mdx",
+              "path": "/monaApi/docs/mdx"
+            },
+            {
+              "id": "overview",
+              "path": "/monaApi/docs/overview"
+            },
+            {
+              "id": "structure",
+              "path": "/monaApi/docs/structure"
+            }
+          ]
+        },
+        {
+          "name": "1.1.0",
+          "label": "1.1.0",
+          "isLast": false,
+          "path": "/monaApi/docs/1.1.0",
+          "mainDocId": "doc1",
+          "docs": [
+            {
+              "id": "api",
+              "path": "/monaApi/docs/1.1.0/api",
+              "sidebar": "version-1.1.0/someSidebar"
+            },
+            {
+              "id": "apilichhoc",
+              "path": "/monaApi/docs/1.1.0/apilichhoc",
+              "sidebar": "version-1.1.0/someSidebar"
+            },
+            {
+              "id": "dataexp",
+              "path": "/monaApi/docs/1.1.0/dataexp"
+            },
+            {
+              "id": "description",
+              "path": "/monaApi/docs/1.1.0/description"
+            },
+            {
+              "id": "design",
+              "path": "/monaApi/docs/1.1.0/design"
+            },
+            {
+              "id": "doc1",
+              "path": "/monaApi/docs/1.1.0/",
+              "sidebar": "version-1.1.0/someSidebar"
+            },
+            {
+              "id": "doc2",
+              "path": "/monaApi/docs/1.1.0/doc2",
+              "sidebar": "version-1.1.0/someSidebar"
+            },
+            {
+              "id": "doc3",
+              "path": "/monaApi/docs/1.1.0/doc3",
+              "sidebar": "version-1.1.0/someSidebar"
+            },
+            {
+              "id": "key",
+              "path": "/monaApi/docs/1.1.0/key"
+            },
+            {
+              "id": "mdx",
+              "path": "/monaApi/docs/1.1.0/mdx"
+            },
+            {
+              "id": "overview",
+              "path": "/monaApi/docs/1.1.0/overview"
+            },
+            {
+              "id": "structure",
+              "path": "/monaApi/docs/1.1.0/structure"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

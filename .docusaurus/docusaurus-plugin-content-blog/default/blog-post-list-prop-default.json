@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Welcome",
+      "permalink": "/monaApi/blog/welcome"
+    },
+    {
+      "title": "Hello",
+      "permalink": "/monaApi/blog/hello-world"
+    },
+    {
+      "title": "Hola",
+      "permalink": "/monaApi/blog/hola"
+    }
+  ]
+}

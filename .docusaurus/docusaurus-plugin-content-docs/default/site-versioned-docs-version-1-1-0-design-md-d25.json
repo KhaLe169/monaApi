@@ -1,0 +1,12 @@
+{
+  "unversionedId": "design",
+  "id": "version-1.1.0/design",
+  "isDocsHomePage": false,
+  "title": "Design",
+  "description": "I can write content using GitHub-flavored Markdown syntax.",
+  "source": "@site/versioned_docs\\version-1.1.0\\design.md",
+  "slug": "/design",
+  "permalink": "/monaApi/docs/1.1.0/design",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.1.0/design.md",
+  "version": "1.1.0"
+}

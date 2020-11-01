@@ -1,0 +1,12 @@
+{
+  "unversionedId": "key",
+  "id": "version-1.1.3/key",
+  "isDocsHomePage": false,
+  "title": "Key",
+  "description": "This is a link to another document.",
+  "source": "@site/versioned_docs\\version-1.1.3\\key.md",
+  "slug": "/key",
+  "permalink": "/monaApi/docs/key",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.1.3/key.md",
+  "version": "1.1.3"
+}

@@ -1,0 +1,17 @@
+{
+  "unversionedId": "api",
+  "id": "version-1.1.0/api",
+  "isDocsHomePage": false,
+  "title": "API Dashboard",
+  "description": "Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse",
+  "source": "@site/versioned_docs\\version-1.1.0\\api.md",
+  "slug": "/api",
+  "permalink": "/monaApi/docs/1.1.0/api",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.1.0/api.md",
+  "version": "1.1.0",
+  "sidebar": "version-1.1.0/someSidebar",
+  "previous": {
+    "title": "API Lịch Học",
+    "permalink": "/monaApi/docs/1.1.0/apilichhoc"
+  }
+}

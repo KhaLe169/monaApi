@@ -1,0 +1,12 @@
+{
+  "unversionedId": "structure",
+  "id": "version-1.1.0/structure",
+  "isDocsHomePage": false,
+  "title": "Structure",
+  "description": "this is another document",
+  "source": "@site/versioned_docs\\version-1.1.0\\Structure.md",
+  "slug": "/structure",
+  "permalink": "/monaApi/docs/1.1.0/structure",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.1.0/Structure.md",
+  "version": "1.1.0"
+}

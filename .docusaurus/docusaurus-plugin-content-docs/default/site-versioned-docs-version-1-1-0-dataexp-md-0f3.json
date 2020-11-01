@@ -1,0 +1,12 @@
+{
+  "unversionedId": "dataexp",
+  "id": "version-1.1.0/dataexp",
+  "isDocsHomePage": false,
+  "title": "Data example",
+  "description": "Another one",
+  "source": "@site/versioned_docs\\version-1.1.0\\dataexp.md",
+  "slug": "/dataexp",
+  "permalink": "/monaApi/docs/1.1.0/dataexp",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/versioned_docs/version-1.1.0/dataexp.md",
+  "version": "1.1.0"
+}

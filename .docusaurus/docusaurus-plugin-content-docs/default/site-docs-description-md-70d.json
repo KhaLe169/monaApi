@@ -1,0 +1,13 @@
+{
+  "unversionedId": "description",
+  "id": "description",
+  "isDocsHomePage": false,
+  "title": "Latin-ish",
+  "description": "Check the documentation for how to use Docusaurus.",
+  "source": "@site/docs\\description.md",
+  "slug": "/description",
+  "permalink": "/monaApi/docs/next/description",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/docs/description.md",
+  "version": "current",
+  "sidebar_label": "Description"
+}

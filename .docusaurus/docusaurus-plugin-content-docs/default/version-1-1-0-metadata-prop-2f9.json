@@ -1,0 +1,56 @@
+{
+  "pluginId": "default",
+  "version": "1.1.0",
+  "label": "1.1.0",
+  "isLast": false,
+  "docsSidebars": {
+    "version-1.1.0/someSidebar": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "Docusaurus",
+        "items": [
+          {
+            "type": "link",
+            "label": "Style Guide",
+            "href": "/monaApi/docs/1.1.0/"
+          },
+          {
+            "type": "link",
+            "label": "Document Number 2",
+            "href": "/monaApi/docs/1.1.0/doc2"
+          },
+          {
+            "type": "link",
+            "label": "This is Document Number 3",
+            "href": "/monaApi/docs/1.1.0/doc3"
+          }
+        ]
+      },
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "API",
+        "items": [
+          {
+            "type": "link",
+            "label": "API Lịch Học",
+            "href": "/monaApi/docs/1.1.0/apilichhoc"
+          },
+          {
+            "type": "link",
+            "label": "API Dashboard",
+            "href": "/monaApi/docs/1.1.0/api"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/monaApi/docs/1.1.0/api": "version-1.1.0/someSidebar",
+    "/monaApi/docs/1.1.0/apilichhoc": "version-1.1.0/someSidebar",
+    "/monaApi/docs/1.1.0/": "version-1.1.0/someSidebar",
+    "/monaApi/docs/1.1.0/doc2": "version-1.1.0/someSidebar",
+    "/monaApi/docs/1.1.0/doc3": "version-1.1.0/someSidebar"
+  }
+}

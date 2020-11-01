@@ -1,0 +1,943 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "1": [
+      0,
+      2,
+      3,
+      6,
+      7,
+      11,
+      31,
+      48,
+      55,
+      58,
+      65,
+      66,
+      69,
+      1
+    ],
+    "2": [
+      0,
+      1,
+      3,
+      6,
+      7,
+      31,
+      48,
+      55,
+      58,
+      65,
+      66,
+      69,
+      2
+    ],
+    "3": [
+      0,
+      1,
+      2,
+      31,
+      48,
+      55,
+      3
+    ],
+    "./styles.css": [
+      1,
+      2,
+      3,
+      6,
+      7,
+      11,
+      31,
+      48,
+      55,
+      58,
+      63,
+      64,
+      65,
+      66,
+      68,
+      69,
+      0
+    ],
+    "@site/versioned_docs\\version-1.1.0\\Overview.md": [
+      4
+    ],
+    "~docs/default\\version-1-1-0-metadata-prop-2f9.json": [
+      5
+    ],
+    "@theme/BlogTagsListPage": [
+      0,
+      1,
+      2,
+      6
+    ],
+    "031d7a87": [
+      0,
+      1,
+      2,
+      65,
+      7
+    ],
+    "@site/versioned_docs\\version-1.1.0\\doc1.md": [
+      8
+    ],
+    "~docs/default\\version-1-1-3-metadata-prop-13d.json": [
+      9
+    ],
+    "@site/versioned_docs\\version-1.1.0\\dataexp.md": [
+      10
+    ],
+    "@theme/DocItem": [
+      0,
+      1,
+      11
+    ],
+    "~blog/default\\mona-api-blog-tags-docusaurus-233.json": [
+      12
+    ],
+    "~blog/default\\mona-api-blog-tags-tags-3c3.json": [
+      13
+    ],
+    "@site/docs\\doc3.md": [
+      14
+    ],
+    "@site/blog\\2019-05-28-hola.md?truncated=true": [
+      15
+    ],
+    "@site/versioned_docs\\version-1.1.3\\doc2.md": [
+      16
+    ],
+    "@site/versioned_docs\\version-1.1.3\\design.md": [
+      17
+    ],
+    "@site/docs\\key.md": [
+      18
+    ],
+    "@site/versioned_docs\\version-1.1.0\\apiLichHoc.md": [
+      19
+    ],
+    "~blog/default\\mona-api-blog-cb0.json": [
+      20
+    ],
+    "@site/versioned_docs\\version-1.1.3\\apiLichHoc.md": [
+      21
+    ],
+    "C:\\Users\\PC\\Desktop\\docApi-v2\\monaApi\\.docusaurus\\docusaurus-plugin-content-blog\\default\\blog-post-list-prop-default.json": [
+      22
+    ],
+    "@site/docs\\mdx.md": [
+      23
+    ],
+    "@site/docs\\api.md": [
+      24
+    ],
+    "@site/versioned_docs\\version-1.1.3\\Overview.md": [
+      25
+    ],
+    "@site/versioned_docs\\version-1.1.3\\description.md": [
+      26
+    ],
+    "@site/versioned_docs\\version-1.1.0\\api.md": [
+      27
+    ],
+    "~blog/default\\mona-api-blog-tags-hello-0bf.json": [
+      28
+    ],
+    "@site/versioned_docs\\version-1.1.3\\dataexp.md": [
+      29
+    ],
+    "@site/docs\\design.md": [
+      30
+    ],
+    "@theme/BlogTagsPostsPage": [
+      0,
+      1,
+      2,
+      3,
+      31
+    ],
+    "@site/versioned_docs\\version-1.1.0\\key.md": [
+      32
+    ],
+    "@site/versioned_docs\\version-1.1.3\\mdx.md": [
+      33
+    ],
+    "@site/docs\\description.md": [
+      34
+    ],
+    "@site/docs\\doc1.md": [
+      35
+    ],
+    "@site/versioned_docs\\version-1.1.3\\doc3.md": [
+      36
+    ],
+    "@site/versioned_docs\\version-1.1.0\\doc3.md": [
+      37
+    ],
+    "@site/versioned_docs\\version-1.1.3\\key.md": [
+      38
+    ],
+    "@site/versioned_docs\\version-1.1.3\\Structure.md": [
+      39
+    ],
+    "@site/versioned_docs\\version-1.1.3\\api.md": [
+      40
+    ],
+    "@site/versioned_docs\\version-1.1.0\\doc2.md": [
+      41
+    ],
+    "@site/blog\\2019-05-29-hello-world.md": [
+      42
+    ],
+    "@site/versioned_docs\\version-1.1.0\\Structure.md": [
+      43
+    ],
+    "~blog/default\\mona-api-blog-tags-facebook-3eb.json": [
+      44
+    ],
+    "@site/docs\\doc2.md": [
+      45
+    ],
+    "@site/blog\\2019-05-30-welcome.md?truncated=true": [
+      46
+    ],
+    "@site/versioned_docs\\version-1.1.0\\description.md": [
+      47
+    ],
+    "@theme/BlogListPage": [
+      0,
+      1,
+      2,
+      3,
+      48
+    ],
+    "@site/docs\\Overview.md": [
+      49
+    ],
+    "@site/blog\\2019-05-30-welcome.md": [
+      50
+    ],
+    "@site/blog\\2019-05-28-hola.md": [
+      51
+    ],
+    "@site/docs\\apiLichHoc.md": [
+      52
+    ],
+    "@site/blog\\2019-05-29-hello-world.md?truncated=true": [
+      53
+    ],
+    "@site/versioned_docs\\version-1.1.3\\doc1.md": [
+      54
+    ],
+    "@theme/BlogPostPage": [
+      0,
+      1,
+      2,
+      3,
+      55
+    ],
+    "@site/versioned_docs\\version-1.1.0\\design.md": [
+      56
+    ],
+    "@site/docs\\Structure.md": [
+      57
+    ],
+    "@site/src\\pages\\index.js": [
+      0,
+      1,
+      2,
+      58
+    ],
+    "@site/docs\\dataexp.md": [
+      59
+    ],
+    "@site/versioned_docs\\version-1.1.0\\mdx.md": [
+      60
+    ],
+    "~docs/default\\version-current-metadata-prop-751.json": [
+      61
+    ],
+    "~blog/default\\mona-api-blog-tags-hola-7e3.json": [
+      62
+    ],
+    "@generated/docusaurus.config": [
+      0,
+      64,
+      63
+    ],
+    "main": [
+      0,
+      64,
+      63
+    ],
+    "runtime~main": [
+      0,
+      63,
+      64
+    ],
+    "C:\\Users\\PC\\Desktop\\docApi-v2\\monaApi\\node_modules\\@docusaurus\\theme-search-algolia\\src\\theme\\SearchPage\\index.js": [
+      0,
+      1,
+      2,
+      7,
+      65
+    ],
+    "@theme/DocPage": [
+      0,
+      1,
+      2,
+      69
+    ],
+    "@theme/NotFound": [
+      0,
+      1,
+      2,
+      69
+    ],
+    "@docsearch/react/modal": [
+      67
+    ],
+    "@docsearch/react/style": [
+      0,
+      68
+    ]
+  },
+  "assets": {
+    "0": {
+      "css": [
+        {
+          "file": "styles.0cc4cdd8.css",
+          "hash": "8580ef067655e003e755",
+          "publicPath": "/monaApi/styles.0cc4cdd8.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "styles.8afb08df.js",
+          "hash": "8580ef067655e003e755",
+          "publicPath": "/monaApi/styles.8afb08df.js"
+        }
+      ]
+    },
+    "1": {
+      "js": [
+        {
+          "file": "1.b27f60b8.js",
+          "hash": "15b2675c1a10dcb49d90",
+          "publicPath": "/monaApi/1.b27f60b8.js"
+        }
+      ]
+    },
+    "2": {
+      "js": [
+        {
+          "file": "2.22fa41b7.js",
+          "hash": "e8f1a0ec303b68f8f424",
+          "publicPath": "/monaApi/2.22fa41b7.js"
+        }
+      ]
+    },
+    "3": {
+      "js": [
+        {
+          "file": "3.ed20cf23.js",
+          "hash": "0555a62d86ed7f8d714e",
+          "publicPath": "/monaApi/3.ed20cf23.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "01337269.3b784dde.js",
+          "hash": "c938ac6cd26626ad0a92",
+          "publicPath": "/monaApi/01337269.3b784dde.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "01a5ede7.9a392cb0.js",
+          "hash": "677e0c953537f1e9f92a",
+          "publicPath": "/monaApi/01a5ede7.9a392cb0.js"
+        }
+      ]
+    },
+    "6": {
+      "js": [
+        {
+          "file": "01a85c17.298a4eb2.js",
+          "hash": "7f294fb408d568633e02",
+          "publicPath": "/monaApi/01a85c17.298a4eb2.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "031d7a87.0cd91109.js",
+          "hash": "2b7c9a220adacd20bb1c",
+          "publicPath": "/monaApi/031d7a87.0cd91109.js"
+        }
+      ]
+    },
+    "8": {
+      "js": [
+        {
+          "file": "05ed0e63.6c62ac2b.js",
+          "hash": "138b5c389a8873989ff5",
+          "publicPath": "/monaApi/05ed0e63.6c62ac2b.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "0d4537fd.7900159c.js",
+          "hash": "1cc155a2232d85e398d4",
+          "publicPath": "/monaApi/0d4537fd.7900159c.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "0f32533c.88ae5f07.js",
+          "hash": "237e764a77b65012e1a8",
+          "publicPath": "/monaApi/0f32533c.88ae5f07.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "17896441.c0bd0618.js",
+          "hash": "e4326e59de5ade76a937",
+          "publicPath": "/monaApi/17896441.c0bd0618.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "207a0a7d.fc872e52.js",
+          "hash": "e13c9d72ff23870aa480",
+          "publicPath": "/monaApi/207a0a7d.fc872e52.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "210169c1.bf860614.js",
+          "hash": "a02fe80737f6bdf170e8",
+          "publicPath": "/monaApi/210169c1.bf860614.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "225b4c69.5b1ce451.js",
+          "hash": "2cd2c7dfa07c989a0a44",
+          "publicPath": "/monaApi/225b4c69.5b1ce451.js"
+        }
+      ]
+    },
+    "15": {
+      "js": [
+        {
+          "file": "2738c48a.d10cd387.js",
+          "hash": "a10c024fbfb4fd641126",
+          "publicPath": "/monaApi/2738c48a.d10cd387.js"
+        }
+      ]
+    },
+    "16": {
+      "js": [
+        {
+          "file": "32bb7a78.4a2da687.js",
+          "hash": "71cb2dff297e0925c797",
+          "publicPath": "/monaApi/32bb7a78.4a2da687.js"
+        }
+      ]
+    },
+    "17": {
+      "js": [
+        {
+          "file": "38faf70d.81916fe7.js",
+          "hash": "75401ba5efce44190366",
+          "publicPath": "/monaApi/38faf70d.81916fe7.js"
+        }
+      ]
+    },
+    "18": {
+      "js": [
+        {
+          "file": "3ebbd648.e06afa5e.js",
+          "hash": "408b2d1def1376b5968e",
+          "publicPath": "/monaApi/3ebbd648.e06afa5e.js"
+        }
+      ]
+    },
+    "19": {
+      "js": [
+        {
+          "file": "40354812.96682dec.js",
+          "hash": "cc1848d42604311dcd8f",
+          "publicPath": "/monaApi/40354812.96682dec.js"
+        }
+      ]
+    },
+    "20": {
+      "js": [
+        {
+          "file": "41fca8a6.3b23cbe3.js",
+          "hash": "f999a08ad6e9de379d66",
+          "publicPath": "/monaApi/41fca8a6.3b23cbe3.js"
+        }
+      ]
+    },
+    "21": {
+      "js": [
+        {
+          "file": "44631ae5.e2ad3659.js",
+          "hash": "9c28aea17a329ff0c0c9",
+          "publicPath": "/monaApi/44631ae5.e2ad3659.js"
+        }
+      ]
+    },
+    "22": {
+      "js": [
+        {
+          "file": "4525621f.1f1317a3.js",
+          "hash": "278bf8457670043c761a",
+          "publicPath": "/monaApi/4525621f.1f1317a3.js"
+        }
+      ]
+    },
+    "23": {
+      "js": [
+        {
+          "file": "45acc928.3ca83270.js",
+          "hash": "b34c90f9a59f00cb4af3",
+          "publicPath": "/monaApi/45acc928.3ca83270.js"
+        }
+      ]
+    },
+    "24": {
+      "js": [
+        {
+          "file": "4c7ad221.402fb8dd.js",
+          "hash": "c1d36ca53e06680e1e36",
+          "publicPath": "/monaApi/4c7ad221.402fb8dd.js"
+        }
+      ]
+    },
+    "25": {
+      "js": [
+        {
+          "file": "4ea181e2.976bb65a.js",
+          "hash": "8f5b5300be23f0b26783",
+          "publicPath": "/monaApi/4ea181e2.976bb65a.js"
+        }
+      ]
+    },
+    "26": {
+      "js": [
+        {
+          "file": "5b923116.0c82bfbb.js",
+          "hash": "2acd837a61589d87f834",
+          "publicPath": "/monaApi/5b923116.0c82bfbb.js"
+        }
+      ]
+    },
+    "27": {
+      "js": [
+        {
+          "file": "5fbd8b20.57ddfd8e.js",
+          "hash": "bc848bc80d4f5bebf12e",
+          "publicPath": "/monaApi/5fbd8b20.57ddfd8e.js"
+        }
+      ]
+    },
+    "28": {
+      "js": [
+        {
+          "file": "61e464d2.ffea1a66.js",
+          "hash": "e609e62593d0edb26ce2",
+          "publicPath": "/monaApi/61e464d2.ffea1a66.js"
+        }
+      ]
+    },
+    "29": {
+      "js": [
+        {
+          "file": "644e6db1.c310a939.js",
+          "hash": "b900760f365d559c9ffd",
+          "publicPath": "/monaApi/644e6db1.c310a939.js"
+        }
+      ]
+    },
+    "30": {
+      "js": [
+        {
+          "file": "650f16b7.26189a57.js",
+          "hash": "17e2dcb26fdbea785f49",
+          "publicPath": "/monaApi/650f16b7.26189a57.js"
+        }
+      ]
+    },
+    "31": {
+      "js": [
+        {
+          "file": "6875c492.2375a86e.js",
+          "hash": "f51b1ff69b743e2cb323",
+          "publicPath": "/monaApi/6875c492.2375a86e.js"
+        }
+      ]
+    },
+    "32": {
+      "js": [
+        {
+          "file": "6f4636b8.cd21b6b9.js",
+          "hash": "c94fc69fb77f97298555",
+          "publicPath": "/monaApi/6f4636b8.cd21b6b9.js"
+        }
+      ]
+    },
+    "33": {
+      "js": [
+        {
+          "file": "707f20c9.ffa2fabd.js",
+          "hash": "5f12229a6c693c3ca82d",
+          "publicPath": "/monaApi/707f20c9.ffa2fabd.js"
+        }
+      ]
+    },
+    "34": {
+      "js": [
+        {
+          "file": "70d5e7bb.12df56d5.js",
+          "hash": "a6c3e17139fa45c45960",
+          "publicPath": "/monaApi/70d5e7bb.12df56d5.js"
+        }
+      ]
+    },
+    "35": {
+      "js": [
+        {
+          "file": "7366bc9d.d11326e9.js",
+          "hash": "56313f585a92f852c7f9",
+          "publicPath": "/monaApi/7366bc9d.d11326e9.js"
+        }
+      ]
+    },
+    "36": {
+      "js": [
+        {
+          "file": "765aab08.89d69e83.js",
+          "hash": "7e272fa0bd086b5199f7",
+          "publicPath": "/monaApi/765aab08.89d69e83.js"
+        }
+      ]
+    },
+    "37": {
+      "js": [
+        {
+          "file": "77662cc7.c6c7bae3.js",
+          "hash": "4178bbf2a41ff07d8c95",
+          "publicPath": "/monaApi/77662cc7.c6c7bae3.js"
+        }
+      ]
+    },
+    "38": {
+      "js": [
+        {
+          "file": "79b0589c.0a636fe8.js",
+          "hash": "42221f3c89be226a874e",
+          "publicPath": "/monaApi/79b0589c.0a636fe8.js"
+        }
+      ]
+    },
+    "39": {
+      "js": [
+        {
+          "file": "79ec7f3b.2f4e6a44.js",
+          "hash": "19122a0f7ec7c8531d9a",
+          "publicPath": "/monaApi/79ec7f3b.2f4e6a44.js"
+        }
+      ]
+    },
+    "40": {
+      "js": [
+        {
+          "file": "7bf4e8b7.c0241154.js",
+          "hash": "39b4614d80e9613c6f68",
+          "publicPath": "/monaApi/7bf4e8b7.c0241154.js"
+        }
+      ]
+    },
+    "41": {
+      "js": [
+        {
+          "file": "7db3ebc2.c8fd95e1.js",
+          "hash": "43105637edc9c73011bb",
+          "publicPath": "/monaApi/7db3ebc2.c8fd95e1.js"
+        }
+      ]
+    },
+    "42": {
+      "js": [
+        {
+          "file": "843d79fe.e0478586.js",
+          "hash": "15192ac2fb4573d119e0",
+          "publicPath": "/monaApi/843d79fe.e0478586.js"
+        }
+      ]
+    },
+    "43": {
+      "js": [
+        {
+          "file": "8abf1d80.ba6cacbc.js",
+          "hash": "b79a08906a3d7b209be7",
+          "publicPath": "/monaApi/8abf1d80.ba6cacbc.js"
+        }
+      ]
+    },
+    "44": {
+      "js": [
+        {
+          "file": "914714e4.1b07a880.js",
+          "hash": "a364a1aee2374d964542",
+          "publicPath": "/monaApi/914714e4.1b07a880.js"
+        }
+      ]
+    },
+    "45": {
+      "js": [
+        {
+          "file": "991b72a1.f39e11f2.js",
+          "hash": "aa9b7979c25b59229b1f",
+          "publicPath": "/monaApi/991b72a1.f39e11f2.js"
+        }
+      ]
+    },
+    "46": {
+      "js": [
+        {
+          "file": "99caf125.17f28469.js",
+          "hash": "1ca024c23fcf59bbf2f2",
+          "publicPath": "/monaApi/99caf125.17f28469.js"
+        }
+      ]
+    },
+    "47": {
+      "js": [
+        {
+          "file": "9a5df390.249b033c.js",
+          "hash": "007d6a9f2a2416d76b70",
+          "publicPath": "/monaApi/9a5df390.249b033c.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "a6aa9e1f.8f2e433d.js",
+          "hash": "f4ac54d4c8e70b84cd6c",
+          "publicPath": "/monaApi/a6aa9e1f.8f2e433d.js"
+        }
+      ]
+    },
+    "49": {
+      "js": [
+        {
+          "file": "a94d9461.ea674a77.js",
+          "hash": "6ef68042634428567afd",
+          "publicPath": "/monaApi/a94d9461.ea674a77.js"
+        }
+      ]
+    },
+    "50": {
+      "js": [
+        {
+          "file": "a9ae89f1.e51ba1ea.js",
+          "hash": "f3ce731db5224b566750",
+          "publicPath": "/monaApi/a9ae89f1.e51ba1ea.js"
+        }
+      ]
+    },
+    "51": {
+      "js": [
+        {
+          "file": "aeda19be.916bf6be.js",
+          "hash": "aa01a19d5353645bd8a6",
+          "publicPath": "/monaApi/aeda19be.916bf6be.js"
+        }
+      ]
+    },
+    "52": {
+      "js": [
+        {
+          "file": "babda7a0.03c62471.js",
+          "hash": "c0cdd717fa5638014a24",
+          "publicPath": "/monaApi/babda7a0.03c62471.js"
+        }
+      ]
+    },
+    "53": {
+      "js": [
+        {
+          "file": "c0a4ca73.4dac19b8.js",
+          "hash": "a40392b3e15483ab6a1c",
+          "publicPath": "/monaApi/c0a4ca73.4dac19b8.js"
+        }
+      ]
+    },
+    "54": {
+      "js": [
+        {
+          "file": "c990f077.404fb6ac.js",
+          "hash": "157165b8b42a80395405",
+          "publicPath": "/monaApi/c990f077.404fb6ac.js"
+        }
+      ]
+    },
+    "55": {
+      "js": [
+        {
+          "file": "ccc49370.e4c2ae3f.js",
+          "hash": "ebf79909f94e17b01b2f",
+          "publicPath": "/monaApi/ccc49370.e4c2ae3f.js"
+        }
+      ]
+    },
+    "56": {
+      "js": [
+        {
+          "file": "d2533ba5.b32137f3.js",
+          "hash": "5e67e6ac52207b2238d9",
+          "publicPath": "/monaApi/d2533ba5.b32137f3.js"
+        }
+      ]
+    },
+    "57": {
+      "js": [
+        {
+          "file": "e5d6199b.421b429b.js",
+          "hash": "8f2c0890c9cc8585e4e5",
+          "publicPath": "/monaApi/e5d6199b.421b429b.js"
+        }
+      ]
+    },
+    "58": {
+      "js": [
+        {
+          "file": "ece76bd1.c93ed64b.js",
+          "hash": "192fac754e1f45fef93f",
+          "publicPath": "/monaApi/ece76bd1.c93ed64b.js"
+        }
+      ]
+    },
+    "59": {
+      "js": [
+        {
+          "file": "f0906305.a7f8f167.js",
+          "hash": "9e209194375d5667b25c",
+          "publicPath": "/monaApi/f0906305.a7f8f167.js"
+        }
+      ]
+    },
+    "60": {
+      "js": [
+        {
+          "file": "f590e997.c003ff9a.js",
+          "hash": "0fc57250c5fe811f5ab8",
+          "publicPath": "/monaApi/f590e997.c003ff9a.js"
+        }
+      ]
+    },
+    "61": {
+      "js": [
+        {
+          "file": "f976f453.e236afd0.js",
+          "hash": "3789a51b36adeeada3c2",
+          "publicPath": "/monaApi/f976f453.e236afd0.js"
+        }
+      ]
+    },
+    "62": {
+      "js": [
+        {
+          "file": "ffbd1546.09f97058.js",
+          "hash": "ba9a0613348f1c318a9e",
+          "publicPath": "/monaApi/ffbd1546.09f97058.js"
+        }
+      ]
+    },
+    "63": {
+      "js": [
+        {
+          "file": "main.6a16e6dd.js",
+          "hash": "81af0039744908bb5441",
+          "publicPath": "/monaApi/main.6a16e6dd.js"
+        }
+      ]
+    },
+    "64": {
+      "js": [
+        {
+          "file": "runtime~main.42eddb2f.js",
+          "hash": "ff643dfd5b4c2efba5fc",
+          "publicPath": "/monaApi/runtime~main.42eddb2f.js"
+        }
+      ]
+    },
+    "65": {
+      "js": [
+        {
+          "file": "65.b544a717.js",
+          "hash": "c88312dd2d8a46ca4ad6",
+          "publicPath": "/monaApi/65.b544a717.js"
+        }
+      ]
+    },
+    "67": {
+      "js": [
+        {
+          "file": "67.8b4e0588.js",
+          "hash": "1e174988fcd3b681643b",
+          "publicPath": "/monaApi/67.8b4e0588.js"
+        }
+      ]
+    },
+    "68": {
+      "js": [
+        {
+          "file": "68.f33e9f0f.js",
+          "hash": "8e070828fb79417ecdfa",
+          "publicPath": "/monaApi/68.f33e9f0f.js"
+        }
+      ]
+    },
+    "69": {
+      "js": [
+        {
+          "file": "66.c37fb9ed.js",
+          "hash": "8390d0c7455b8945ff89",
+          "publicPath": "/monaApi/66.c37fb9ed.js"
+        },
+        {
+          "file": "69.bbb1ed2f.js",
+          "hash": "685e31363f7f05fa0053",
+          "publicPath": "/monaApi/69.bbb1ed2f.js"
+        }
+      ]
+    }
+  }
+}
